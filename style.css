@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img1{
+    height: 40px;
+}
+.list{ 
+    justify-content: center !important; 
+}
+a{
+    color: blue !important;
+}
+.img2{
+    height: 500px;
+}
+.no1{
+    margin-top: 50px;
+    width: 33%;
+}
+#heading{
+    color: blue;
+    font-size: 64px;
+}
+button{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 30px !important;
+}
+.text2{
+    padding-left: 150px;
+}
+.no2{
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+    
+}
+.lia{
+    border-bottom: black;
+    color: black !important;
+    font-size: 20px;    
+}
+.img3{
+    height: 350px;
+    filter: grayscale(100%);
+}
+.light{
+    border: 1px solid white;
+    border-bottom: #2EA3F2;
+    width: 200px;
+}
+.h33{
+    font-size: 18px;
+    font-weight: 700;
+}
+.lia3{
+    background-color: rgb(159, 245, 245);
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    margin-top: 100px;
+    box-shadow:  10px 10px 10px 10px #2EA3F2;
+    
+}
+.lia4{
+    border: 1px solid black;
+    background-color: #EEEFBD;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    box-shadow:  10px 10px 10px 10px#EEEFBD;
+    border-radius: 20px;
+    
+}
+.lia5{
+    background-color: #E0D5C0;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    box-shadow:  10px 10px 10px 10px#EEEFBD;
+    
+}
+.lia6{
+    border: 1px solid black;
+    background-color: #c7a5e6;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    box-shadow:  10px 10px 10px 10px#EEEFBD;
+    border-radius: 20px;
+    
+}
+.tour-section {
+    background-color: #0d1b2a;
+    color: white;
+    padding: 50px 0;
+  }
+
+  .tour-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+
+  .tour-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+
+  .tour-section  {
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    height: auto;
+  }
+  .social-icons {
+    position: fixed;
+    top: 50%;
+    left: 0;
+
+  }
+
+  .social-icons a {
+    display: block;
+    margin: 10px 0;
+    color: #fff;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+  }
+
+  .whatsapp-chat {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+  }
+
+  .logo{
+    justify-content: end;
+    
+    padding: 10px;
+    padding-left: 70px;
+    gap: 10px;
+  }
+  .img4{
+    width: 17%;
+    height: 100px;
+  }
+  .butt{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: start;
+  }
+  .no3{
+    /* background-color: aqua; */
+    width: 30%;
+    height: 30%;
+  }
+  .lia7{
+    width: 70%;
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+  }
+  .ming{
+    display: flex;
+  }
+  .no5{
+    width: 40%;
+    background-color: #090326 !important;
+  }
+  .no4{
+    width: 30%;
+    border: 1px solid ;
+    height: 30%;
+    padding: 30px;
+  }
+  .lia8{
+    color: #D38815;
+    border-bottom: #D38815;
+  }
+  a{
+    color: #D38815;
+
+  }
+
+
+
+
